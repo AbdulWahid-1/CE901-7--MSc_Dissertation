@@ -1,5 +1,9 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22904795.svg)](https://doi.org/10.5281/zenodo.22904795)
 
+**ORCID:** [Your ORCID Number Here](https://orcid.org/0000-0000-0000-0000)
+
+**LinkedIn:** [Your Name](https://linkedin.com/in/your-profile)
+
 # Deep Learning for Arbitrary Stock Forecasting (MSc Thesis)
 
 ## Why I Chose This Research Topic
