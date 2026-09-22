@@ -1,8 +1,8 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22904795.svg)](https://doi.org/10.5281/zenodo.22904795)
 
-**ORCID:** [Your ORCID Number Here](https://orcid.org/0000-0002-0740-4812)
+**ORCID:** [0000-0002-0740-4812](https://orcid.org/0000-0002-0740-4812)
 
-**LinkedIn:** [Your Name](https://www.linkedin.com/in/abdul-wahid-960837151/)
+**LinkedIn:** [Abdul Wahid](https://www.linkedin.com/in/abdul-wahid-960837151/)
 
 # Deep Learning for Arbitrary Stock Forecasting (MSc Thesis)
 
